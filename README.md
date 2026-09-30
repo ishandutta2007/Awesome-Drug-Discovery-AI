@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Drug-Discovery-AI"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Drug-Discovery-AI?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Drug-Discovery-AI"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Drug-Discovery-AI?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Drug-Discovery-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Drug-Discovery-AI?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Drug-Discovery-AI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Drug-Discovery-AI?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,9 +72,9 @@ The commercial landscape features platforms that combine proprietary multi-omics
 
 The open-source ecosystem provides essential, transparent, and reproducible tools for molecular representation, structural bioinformatics, docking, and trajectory simulation.
 
-*Sorted by GitHub Star Count (Descending)* ⬇️
+*Sorted by GitHub Stars_Count (Descending)* ⬇️
 
-| Project 📦 | Stars ⭐ | Primary License 📄 | Category & Description 🔬 |
+| Project 📦 | GitHub_Stars ⭐ | Primary License 📄 | Category & Description 🔬 |
 | :--- | :--- | :--- | :--- |
 | **[AlphaFold](https://github.com/google-deepmind/alphafold)** | [<img src="https://img.shields.io/github/stars/google-deepmind/alphafold?style=social&color=white" alt="AlphaFold Stars"/>](https://github.com/google-deepmind/alphafold/stargazers) | Apache-2.0 | **Protein Structure Prediction**: Flagship deep learning system by Google DeepMind predicting 3D protein structures with atomic accuracy. |
 | **[DeepChem](https://github.com/deepchem/deepchem)** | [<img src="https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white" alt="DeepChem Stars"/>](https://github.com/deepchem/deepchem/stargazers) | MIT | **Deep Learning Framework**: The leading open-source library for molecular property prediction, virtual screening, and generative chemistry across PyTorch/JAX. |
